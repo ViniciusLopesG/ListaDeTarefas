@@ -21,7 +21,5 @@ Este é um projeto simples de uma lista de tarefas (To-Do List) desenvolvido em 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-2. **Navegue até o diretório do projeto**:
-   cd nome-do-repositorio
 
    
